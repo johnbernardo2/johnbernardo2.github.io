@@ -3,14 +3,15 @@
     "name": "John Bernardo",
     "label": "Student",
     "picture": "https://github.com/johnbernardo2.png",
-    "email": "jwrb@hawaii.edu; mrjohnbernardo@gmail.com",
+    "email": "mrjohnbernardo@gmail.com",
+    "email": "jwrb@hawaii.edu",
     "phone": "907-617-3669",
     "website": "https://johnbernardo2.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "github", "username": "johnbernardo2", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "John Bernardo", "url": "www.linkedin.com/in/john-bernardo-8203a8326" },
       { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
       { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
     ]
@@ -25,19 +26,19 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Java", "Javascript", "Typescript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Vim", "Git/GitHub", "VSCode", "Netbeans" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2026)",
+      "studyType": "B.A.",
+      "startDate": "2022-09-01",
       "endDate": "Present",
       "courses": [
       ]
@@ -45,12 +46,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Delta",
+      "position": "Ramp Agent",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2024-07-01",
+      "endDate": "2024-08-23",
+      "summary": "Insert Summary",
       "highlights": [
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
