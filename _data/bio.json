@@ -10,9 +10,7 @@
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "johnbernardo2", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "John Bernardo", "url": "www.linkedin.com/in/john-bernardo-8203a8326" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "linkedin", "username": "John Bernardo", "url": "www.linkedin.com/in/john-bernardo-8203a8326" }
     ]
   },
   "interests": [
@@ -33,7 +31,7 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
+      "institution": "the University of Hawai'i at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2026)",
       "studyType": "B.A.",
       "startDate": "2022-09-01",
