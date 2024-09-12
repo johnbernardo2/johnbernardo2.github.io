@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PlaylistIcon.jpg
+image: img/PlaylistIcon.png
 title: "Playlist"
 date: 2024
 published: true
