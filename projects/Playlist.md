@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/PlaylistIcon.jpg
 title: "Playlist"
 date: 2024
 published: true
