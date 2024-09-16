@@ -6,7 +6,9 @@ title: "Ka Papa Lo'i"
 date: 2022
 published: true
 labels:
-summary: "Volunteering for the Ka Papa Lo'i program"
+-Volunteering
+-SLP
+summary: "Volunteering for the Ka Papa Lo'i program in Punalu'u"
 ---
 
 The Ka Papa Lo’i is a service learning event in which volunteers can learn about the land (Aina) and help maintain Hawaiian agriculture. Two locations that I’m aware about and have particapted in about are Ka Papa Lo’i Kanewai, here on campus and Ka Papa Lo’i Punalu’u, North East side of Oahu.
