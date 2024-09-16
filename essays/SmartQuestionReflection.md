@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Reflection on "Smart Questions""
 # All dates must be YYYY-MM-DD format!
-date: 2024-09-04
+date: 2024-09-11
 published: true
 labels:
   - Typescript
 ---
+
 Introduction
 Smart questions is a way for programmers or anyone, to effectively ask a question. An effective way to yield a good/proper response without being a nuisance. Asking the question in proper formatting, politely/respectably, in a place where it is proper to do so. Ignoring these guidelines will likely yield you no good or no response at all, even having your question removed.
 
