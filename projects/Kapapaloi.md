@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/agricultureicon.jpg
+image: img/agricultureicon.png
 title: "Ka Papa Lo'i"
 date: 2022
 published: true
