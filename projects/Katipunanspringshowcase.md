@@ -1,15 +1,13 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/actingicon.png
 title: "Katipunan Spring Showcase"
 date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My class and I acted and created a music video to showcase for a film festival"
+
+summary: "My class and I acted and created a video to showcase for a film festival"
 ---
 
 The Katipunan Spring Showcase is an annual spring semester event held by the Katipunan Club at UH Manoa. It is a film showcasing composed of multiple Filipino classes who have created a music video based on that years theme. It is also called Katipunan Got Talent (KGT) in the Fall semester.
