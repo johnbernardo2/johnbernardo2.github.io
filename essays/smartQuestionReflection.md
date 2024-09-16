@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflection on "Smart Questions""
+title: "Reflection on /"Smart Questions/""
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-11
 published: true
