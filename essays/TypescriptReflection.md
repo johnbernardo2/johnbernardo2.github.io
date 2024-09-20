@@ -15,11 +15,11 @@ I did enjoy seeing a change in syntax, one being about variables.
 In java, when you declare a string or number, you use the type first, the name of the variable, and then set it equal to what it is.
 
 Example:
-'''
+```
 String location = “Honolulu”;
 
 int zipCode = 96822;
-'''
+```
 
 Pretty basic, but only because that’s the first language I’ve learned.
 In javascript, it’s even simpler where no type is needed, you can just use “let” for both in place of the types in Java.
@@ -27,11 +27,11 @@ In javascript, it’s even simpler where no type is needed, you can just use “
 However, in typescript, you use a colon after the name of the variable and set the type for it equal to its literal, whilst using let or another declaration (eg const, var).
 
 Example:
-'''
+```
 let location: string = “Honolulu”;
 
 let zipCode: number = 96822;
-'''
+```
 It is a small change, but it is new to me.
 
 Another thing I found interesting was typescripts implementation of IntelliSense. I’m assuming even in a better environment for javascript, typescript’s use in IntelliSense is more robust. It’s interesting to me because I am used to using an IDE and or code editor with IDE-like features. And for that to be an important note when learning typescript’s background impresses me. Like Java in Mac’s terminal and Vim, there is no IntelliSense or any suggestion-like features for it.
@@ -54,7 +54,7 @@ Done.
 
 Here is the completed WOD.
 
-'''
+```
 
 function projectEulerOne (): number {
     let sum = 0;
@@ -67,5 +67,5 @@ function projectEulerOne (): number {
         return sum;
     }
     
-'''
+```
 I think my programming background must strengthen before I start doing more WODs. But so far I believe athletic software engineering or WODs are good at challenging your thinking.
