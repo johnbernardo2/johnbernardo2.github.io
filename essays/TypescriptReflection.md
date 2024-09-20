@@ -45,7 +45,9 @@ Okay, so we need a for loop that goes all the way to 1000, check.
 And we already know how to use remainers with %, check.
 
 So we set it up like this:
+```
  i % 3 === 0 || i % 5 === 0
+```
 //check
 
 Then finally we need to add those values to the sum until 1000.
