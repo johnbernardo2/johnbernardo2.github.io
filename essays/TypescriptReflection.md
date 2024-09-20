@@ -15,7 +15,9 @@ I did enjoy seeing a change in syntax, one being about variables.
 In java, when you declare a string or number, you use the type first, the name of the variable, and then set it equal to what it is.
 
 Example:
+
 String location = “Honolulu”;
+
 int zipCode = 96822;
 
 Pretty basic, but only because that’s the first language I’ve learned.
@@ -24,7 +26,9 @@ In javascript, it’s even simpler where no type is needed, you can just use “
 However, in typescript, you use a colon after the name of the variable and set the type for it equal to its literal, whilst using let or another declaration (eg const, var).
 
 Example:
+
 let location: string = “Honolulu”;
+
 let zipCode: number = 96822;
 
 It is a small change, but it is new to me.
