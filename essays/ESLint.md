@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: "My thoughts on ESLint"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2024-09-24
 published: true
 labels:
-  - Engineering
+  - ESLint
 ---
 
 
