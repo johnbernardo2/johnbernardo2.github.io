@@ -26,7 +26,7 @@ The point is, these sections help create a smooth website experience. While you 
 
 ### Why bother to use something like Bootstrap 5? Why not just use raw HTML and CSS?
 
-##### 1. Save you time and effort
+##### 1. Saves you time and effort
 
 Because UI frameworks is a add-on reusable style system, like buttons, navigation bar, footer section. It saves you time from having to create custom css from scratch. You can simply use the bootrap classes to style elements, reducing time spent on repetitive design tasks.
 
