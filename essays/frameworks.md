@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "UI"
+title: "UI? Frameworks? What is that?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
@@ -38,9 +38,10 @@ The world is changing in all sorts of ways, a big portion being the technology. 
 
 Bootstrap has a large community of developers, resources, and tutorials, and many templates to gain inspiration from. You may look at a website and be able to copy it just using html and css, but the simplicity and experiences of others in the frameworks community will speed up that process for you.
 
+### Personal Experience with Bootstrap 5
+Having worked on our E36 Assignment using Bootstrap 5, where we recreated a website, I’ve experienced firsthand the benefits of a UI framework. In particular, Bootstrap allowed me to focus more on the overall design and content rather than the repetitive task of styling elements from scratch. Its responsive grid system made it easy to create a layout.
+I also enjoyed in on a personal note for it’s simplicity and being able to copy one of my favorite websites.
 
-Conclusion - Final thoughts
+### Conclusion
 
-
-
-
+While UI frameworks like Bootstrap 5 might take time to learn, the return on investment is clear. It saves time and effort, offers cross-device compatibility, ensures consistency, and provide a wealth of resources from an active community. Whether you’re an experienced UI developer or a junior in ICS 314, embracing a UI framework is a smart choice for creating user-friendly, responsive, and visually appealing websites. Simplifying the web development process and enhancing a user’s experience with the power of frameworks.
