@@ -26,15 +26,15 @@ The point is, these sections help create a smooth website experience. While you 
 
 ### Why bother to use something like Bootstrap 5? Why not just use raw HTML and CSS?
 
-1. Save you time and effort
+# 1. Save you time and effort
 
 Because UI frameworks is a add-on reusable style system, like buttons, navigation bar, footer section. It saves you time from having to create custom css from scratch. You can simply use the bootrap classes to style elements, reducing time spent on repetitive design tasks.
 
-2. Responsive and Cross-platform compatibility
+# 2. Responsive and Cross-platform compatibility
 
 The world is changing in all sorts of ways, a big portion being the technology. From going to the airport to buy a ticket, to ordering a ticket on our computer, to now a tap on our phone. Bootstraps reponsive design allows websites to be responsive to our screen sizes, allowing cross-device compatibility.
 
-3. Large Community
+# 3. Large Community
 
 Bootstrap has a large community of developers, resources, and tutorials, and many templates to gain inspiration from. You may look at a website and be able to copy it just using html and css, but the simplicity and experiences of others in the frameworks community will speed up that process for you.
 
