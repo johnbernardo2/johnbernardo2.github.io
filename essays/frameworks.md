@@ -39,8 +39,7 @@ The world is changing in all sorts of ways, a big portion being the technology. 
 Bootstrap has a large community of developers, resources, and tutorials, and many templates to gain inspiration from. You may look at a website and be able to copy it just using html and css, but the simplicity and experiences of others in the frameworks community will speed up that process for you.
 
 ### Personal Experience with Bootstrap 5
-Having worked on our E36 Assignment using Bootstrap 5, where we recreated a website, I’ve experienced firsthand the benefits of a UI framework. In particular, Bootstrap allowed me to focus more on the overall design and content rather than the repetitive task of styling elements from scratch. Its responsive grid system made it easy to create a layout.
-I also enjoyed in on a personal note for it’s simplicity and being able to copy one of my favorite websites.
+Having worked on our E36 Assignment using Bootstrap 5, where we recreated a website, I’ve experienced firsthand the benefits of a UI framework. In particular, Bootstrap allowed me to focus more on the overall design and content rather than the repetitive task of styling elements from scratch. Its responsive grid system made it easy to create a layout. On a personal note, I enjoyed it for it’s simplicity and being able to have copied one of my favorite websites. I think it would've taken me longer to try and copy it from pure html and css.
 
 ### Conclusion
 
