@@ -21,7 +21,7 @@ In the middle, we have our content area, a place to scroll, like when you’re s
 
 And on the far bottom, we have the footer section. This is where you’ll often see  the “boring stuff”, eg. “Conditions of Use” or “Privacy Notice”, etc. But it’s also where buisnesses/companies will place helpful links, such as “Contact us” or “Help” for customer support.
 
-So what? It’s just a website?
+So what, it’s just a website?
 The point is, these sections help create a smooth website experience. While you may not be thinking, how cool a website is. You’ll be satisfied that you’re able to do all these things easy: logging in, searching for a product, or contacting customer support. And that’s exactly what UI framework is all about - making sure the user interface (UI) intuitive and seamless.
 
 ### Why bother to use something like Bootstrap 5? Why not just use raw HTML and CSS?
