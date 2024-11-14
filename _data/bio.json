@@ -74,30 +74,37 @@
       ]
     }
   ],
-  "volunteer": [
+  "Volumptious": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Intramural Sports",
+      "website": "",
+      "position": "",
+      "startDate": "2022-01-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Basketball",
+        "Volleyball"
       ]
     },
     {
-      "organization": "",
+      "organization": "Katipunan Club",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "Panda",
+      "website": "",
+      "position": "",
+      "startDate": "2024-01-01",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
