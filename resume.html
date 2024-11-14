@@ -80,8 +80,7 @@ layout: home
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
               <p class="m-0">
-              {% if entry.studyType %}{{ entry.studyType }}{% endif %}
-              {% if entry.studyType and entry.area %} , {{ entry.area }}{% else %}{{ entry.area }}{% endif %}
+              {{ entry.studyType }}{% if entry.studyType and entry.area %},{% endif %} {{ entry.area }}
               </p>
               {% if entry.courses %}
                 <ul>
