@@ -16,13 +16,17 @@
   "interests": [
     { "name": "Software Engineering" },
     { "name": "Cybersecurity" },
-    { "name": "Blockchain" },
+    { "name": "Data Science" },
     { "name": "Artificial Intelligence" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "Javascript", "Typescript" ]
+      "keywords": [ "Java", "Javascript", "Typescript", "HTML/CSS ]
+    },
+    {
+      "name": "Database Technologies",
+      "keywords": [ "PostgreSQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -74,9 +78,9 @@
       ]
     }
   ],
-  "volunteer": [
+  "volunteerVOID": [
     {
-      "organization": "Intramural Sports",
+      "organization": "",
       "website": "",
       "position": "",
       "startDate": "2022-01-01",
@@ -88,7 +92,7 @@
       ]
     },
     {
-      "organization": "Katipunan Club",
+      "organization": "",
       "website": "",
       "position": "",
       "startDate": "",
@@ -98,7 +102,7 @@
       ]
     },
     {
-      "organization": "Panda",
+      "organization": "",
       "website": "",
       "position": "",
       "startDate": "2024-01-01",
