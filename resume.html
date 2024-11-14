@@ -81,9 +81,8 @@ layout: home
               <p class="m-0"><b>{{ entry.institution }}</b></p>
               <p class="m-0">
               {% if entry.studyType %}{{ entry.studyType }}{% endif %}
-              {% if entry.studyType and entry.area %}, {% endif %}
-              {% if entry.area %}{{ entry.area }}{% endif %}
-               </p>
+              {% if entry.studyType and entry.area %} , {{ entry.area }}{% else %}{{ entry.area }}{% endif %}
+              </p>
               {% if entry.courses %}
                 <ul>
                   {% for course in entry.courses %}
