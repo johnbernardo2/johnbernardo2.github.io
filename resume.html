@@ -79,7 +79,11 @@ layout: home
           <div class="row mb-3">
             <div class="col-9">
               <p class="m-0"><b>{{ entry.institution }}</b></p>
-              <p class="m-0">{{ entry.studyType }}{% if entry.area %}, {{ entry.area }}{% endif %}</p>
+              <p class="m-0">
+              {% if entry.studyType %}{{ entry.studyType }}{% endif %}
+              {% if entry.studyType and entry.area %}, {% endif %}
+              {% if entry.area %}{{ entry.area }}{% endif %}
+               </p>
               {% if entry.courses %}
                 <ul>
                   {% for course in entry.courses %}
