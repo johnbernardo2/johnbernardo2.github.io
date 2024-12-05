@@ -8,11 +8,10 @@ published: true
 labels:
   - Design Patterns
 ---
+<img src="../img/flatroof.jpg" alt="Flat Roof Picture Alaska" width="1000">
 
 ### Laying the Foundation: The Importance of Design Patterns
 Imagine building a house. Before construction begins, everyone involved—owners, architects, and builders—needs to understand the fundamental principles. Education and awareness are critical. Owners must make informed decisions about features like roof types, insulation, and colors, considering both their preferences and the environment. For example, a black house in Arizona or a flat roof in Alaska would lead to disaster. Similarly, in software design, design patterns act as foundational guidelines. They ensure teams understand proven solutions for common problems, helping to avoid mismatched designs and ensuring efficient, maintainable systems. Much like selecting the right roof for the climate, choosing the appropriate design pattern ensures that software is robust and fit for its purpose.
-
-<img src="../img/flatroof.jpg" alt="Flat Roof Picture Alaska" width="500">
 
 
 ### From Overwhelm to Structure: My Early Coding Journey
