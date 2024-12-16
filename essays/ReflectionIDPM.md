@@ -6,5 +6,6 @@ title: "Mastering Effort Estimation and Tracking"
 date: 2024-12-18
 published: true
 labels:
+  - Pomodoro
  
 ---
