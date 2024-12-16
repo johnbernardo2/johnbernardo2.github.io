@@ -19,23 +19,23 @@ Artificial Intelligence (AI) has become an increasingly important tool in educat
 ## II. Personal Experience with AI:
 <br/>
 
-### 1. Experience WODs:
+#### 1. Experience WODs:
 
 For coding assignments, I didn't rely much on AI to complete them. Most of the time, the demonstration video provided at the end of the instructions was enough. I watched it and followed along when I was stuck. In the demonstration, the professor went over the solution step by step, which helped complete the assignment. Because the video covered the necessary details, I usually didn't need to use AI for these tasks.
 
-### 2. In-class Practice WODs:
+#### 2. In-class Practice WODs:
 
 I tried to complete the practice WODs on my own first. When I got stuck, I used ChatGPT for assistance. Although the practice WODs were timed to simulate the actual WOD environment, I didn't feel pressured to rush. I gave myself time to figure things out before turning to ChatGPT for help. My prompts often included the instructions and the code I had already written, such as: "Here are the WOD instructions: [instructions] and here's what I have so far: [code snippet]. How can I modify it so that it meets the requirements?" This approach allowed me to receive tailored advice that helped me move forward. ChatGPT’s responses were generally useful, though they occasionally required further refinement to fully address the specific task.
 
-### 3. In-class WODs:
+#### 3. In-class WODs:
 
 I used AI during the in-class WODs to ensure I completed them within the time limit, as the score was either 0/100 or 100/100. I started by reviewing the mock-up WODs we had practiced earlier and reusing similar parts. Reusing familiar code not only saved time but also reinforced my understanding of the concepts, which was especially helpful for debugging and restyling. If there were parts I couldn't figure out, I turned to ChatGPT for guidance, asking specific questions about the task, such as: "Here are the WOD instructions: [instructions], and here's what I have so far: [code snippet]. How can I modify it so that it meets the requirements?" While ChatGPT provided useful starting points, the output didn't always match the exact design or functionality I needed, so I polished and refined the code on my own to meet the requirements.
 
-### 4. Essays: 
+#### 4. Essays: 
 
 I did not use AI for essays. When the prompts focused on technical concepts about coding, I did some quick research on the internet to gather information and brainstorm ideas for my writing. In the past, I had tried using AI for essays in other classes, but I found that the results often didn't sound natural or align with what I wanted. Additionally, revising the AI-generated output into something usable took a significant amount of time. The essays in this class required me to think creatively and write for a broader audience rather than just the professor. I believed that using AI would make my papers lack creativity and a personal touch. To make my essays more engaging, I often included metaphors and personal experiences—elements that AI couldn't replicate effectively. For these reasons, I chose to focus on developing my thoughts independently and did not rely on AI for essays in this class.
 
-### 5. Final Project: 
+#### 5. Final Project: 
 
 <img width="350px" class="rounded float-start pe-4" src="../img/landing.png">
 
@@ -43,11 +43,11 @@ AI played a crucial role during the final project. To deploy our team's website 
 
 We also encountered issues where functionalities worked locally but failed after deployment, even though the database was updated correctly. For example, our "Approve" and "Delete" buttons on the admin page worked locally but didn't immediately update the "Buy Page" on Vercel without redeploying the site. ChatGPT explained that this was due to server-side rendering and caching issues, which helped me debug and refine the code. Although it didn't provide a direct solution, the insights were crucial for resolving these challenges and ensuring the website worked as intended.
 
-### 6. Learning a Concept/Tutorial:
+#### 6. Learning a Concept/Tutorial:
 
 When learning new concepts, I often asked ChatGPT to explain them in simple terms. For example, I would ask, "Please explain what [concept] is in simple terms." By specifically requesting straightforward explanations, I found it easier to grasp the material because the responses were concise and clear. I usually began with broader questions and then gradually narrowed them down to focus on more specific aspects of the concept. For instance, I asked ChatGPT for an easy-to-understand example to reinforce my understanding. If the example made sense, I would follow up by requesting a slightly more complex one. When something wasn't clear enough, I adjusted my questions to target the specific points of confusion. This step-by-step approach helped me break down complex topics into manageable parts, significantly improving my understanding of the concepts.
 
-### 7. Answering a Question in Class or Discord:
+#### 7. Answering a Question in Class or Discord:
 
 I didn't ask questions on Discord, so I didn't use AI in this context. When I encountered issues, I often found that someone else had already asked about the same problem, and helpful responses were available. This allowed me to debug my code by reading through the discussions without needing to post my own question.
 
