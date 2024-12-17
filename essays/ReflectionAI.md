@@ -56,12 +56,6 @@ For my final project, implementing dynamic map markers using the Google Maps API
 
 Once the initial functionality was in place—where adding a restaurant entry automatically generated a marker on the map—I ran into a bug while trying to edit the marker’s location. The problem was that updates would only work if the new coordinates were within one integer of the original. I asked ChatGPT multiple times, but it failed to identify the root cause and instead suggested unnecessarily complex solutions. Eventually, a quick Google search revealed that the issue could be resolved with just two lines of code.
 
-Original Coordinates:
-<img width="300px" class="rounded float-start pe-4" src="../img/oldcoordinates.png">
-
-New Coordinates:
-<img width="300px" class="rounded float-start pe-4" src="../img/newcoordinates.png">
-
 This experience highlighted both the strengths and weaknesses of AI tools. While ChatGPT gave me a significant leap forward in implementation, it occasionally struggled with debugging edge cases. The process taught me the importance of combining AI suggestions with manual research and critical thinking to find the most effective solution.
 
 
