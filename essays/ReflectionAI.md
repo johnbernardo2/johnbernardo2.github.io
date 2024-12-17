@@ -14,105 +14,134 @@ labels:
 
 ## I. Introduction: 
 
-Artificial Intelligence (AI) has become an increasingly important tool in education, providing new ways to enhance learning and problem-solving. In software engineering, AI tools like ChatGPT and Claude are especially helpful for writing, debugging, and understanding code. During ICS 314, I relied on ChatGPT and Claude to assist with coding challenges, debug errors, and deepen my understanding of key concepts. This essay reflects on how these tools shaped my experience and learning in the course.
+Artificial Intelligence (AI) is undeniably reshaping the way we learn, work, and interact with technology. In education, AI has emerged as a powerful tool to enhance efficiency and accelerate understanding. While its benefits are clear, its usage also raises important debates about dependency and the need for foundational knowledge. Just as a calculator aids in solving complex equations but doesn’t inherently teach calculus, AI is most effective when used as a tool rather than a crutch.
+
+The relevance of AI to software engineering parallels this drive for efficiency and enhanced learning. Debugging, often regarded as one of the most frustrating parts of programming, is a prime example. While modern tools like linters catch many syntax issues, more subtle bugs—like a misconfigured API call or an off-by-one error in a loop—can still lead to hours of frustration. AI tools like ChatGPT and Github Copilot can assist by pinpointing problematic areas, suggesting fixes, and even explaining the root cause—all without needing to consult a colleague or supervisor..
+
+Personally, I’ve found AI invaluable for breaking down complex concepts. Whether asking, "Why does this work this way?" or "How do these elements relate?", AI provides analogies and clear explanations that help me grasp difficult topics faster. It’s like having a knowledgeable tutor available 24/7. There’s a saying: “If you can’t explain it to a 5-year-old, you don’t understand it yourself.” For me, AI bridges that gap between confusion and clarity, making it easier to learn and apply new knowledge effectively.
+
 
 ## II. Personal Experience with AI:
-<br/>
+
 
 #### 1. Experience WODs:
 
-For coding assignments, I didn't rely much on AI to complete them. Most of the time, the demonstration video provided at the end of the instructions was enough. I watched it and followed along when I was stuck. In the demonstration, the professor went over the solution step by step, which helped complete the assignment. Because the video covered the necessary details, I usually didn't need to use AI for these tasks.
+
 
 #### 2. In-class Practice WODs:
 
-I tried to complete the practice WODs on my own first. When I got stuck, I used ChatGPT for assistance. Although the practice WODs were timed to simulate the actual WOD environment, I didn't feel pressured to rush. I gave myself time to figure things out before turning to ChatGPT for help. My prompts often included the instructions and the code I had already written, such as: "Here are the WOD instructions: [instructions] and here's what I have so far: [code snippet]. How can I modify it so that it meets the requirements?" This approach allowed me to receive tailored advice that helped me move forward. ChatGPT’s responses were generally useful, though they occasionally required further refinement to fully address the specific task.
 
 #### 3. In-class WODs:
 
-I used AI during the in-class WODs to ensure I completed them within the time limit, as the score was either 0/100 or 100/100. I started by reviewing the mock-up WODs we had practiced earlier and reusing similar parts. Reusing familiar code not only saved time but also reinforced my understanding of the concepts, which was especially helpful for debugging and restyling. If there were parts I couldn't figure out, I turned to ChatGPT for guidance, asking specific questions about the task, such as: "Here are the WOD instructions: [instructions], and here's what I have so far: [code snippet]. How can I modify it so that it meets the requirements?" While ChatGPT provided useful starting points, the output didn't always match the exact design or functionality I needed, so I polished and refined the code on my own to meet the requirements.
+
 
 #### 4. Essays: 
 
-I did not use AI for essays. When the prompts focused on technical concepts about coding, I did some quick research on the internet to gather information and brainstorm ideas for my writing. In the past, I had tried using AI for essays in other classes, but I found that the results often didn't sound natural or align with what I wanted. Additionally, revising the AI-generated output into something usable took a significant amount of time. The essays in this class required me to think creatively and write for a broader audience rather than just the professor. I believed that using AI would make my papers lack creativity and a personal touch. To make my essays more engaging, I often included metaphors and personal experiences—elements that AI couldn't replicate effectively. For these reasons, I chose to focus on developing my thoughts independently and did not rely on AI for essays in this class.
+
 
 #### 5. Final Project: 
 
-<img width="350px" class="rounded float-start pe-4" src="../img/landing.png">
+For my final project, implementing dynamic map markers using the Google Maps API was both a challenge and an opportunity to explore AI’s capabilities. I used ChatGPT to guide me through linking geographic coordinates (latitude and longitude) to markers on a map. It provided a helpful starting point by explaining how to import the Google Maps library, manage environment keys, and structure the code for creating new markers.
 
-AI played a crucial role during the final project. To deploy our team's website on Vercel, I needed to resolve lint and build errors. While lint errors were straightforward to fix, build errors required more effort, especially since I wasn't the author of much of the code. I used ChatGPT with the prompt: "I am encountering this error while running 'npm run build.' Here is the relevant code causing the issue. Can you explain why this error is occurring and suggest modifications to fix it?" ChatGPT helped me understand the error messages, identify the causes, and receive suggestions for fixes.
+Once the initial functionality was in place—where adding a restaurant entry automatically generated a marker on the map—I ran into a bug while trying to edit the marker’s location. The problem was that updates would only work if the new coordinates were within one integer of the original. I asked ChatGPT multiple times, but it failed to identify the root cause and instead suggested unnecessarily complex solutions. Eventually, a quick Google search revealed that the issue could be resolved with just two lines of code.
 
-We also encountered issues where functionalities worked locally but failed after deployment, even though the database was updated correctly. For example, our "Approve" and "Delete" buttons on the admin page worked locally but didn't immediately update the "Buy Page" on Vercel without redeploying the site. ChatGPT explained that this was due to server-side rendering and caching issues, which helped me debug and refine the code. Although it didn't provide a direct solution, the insights were crucial for resolving these challenges and ensuring the website worked as intended.
+This experience highlighted both the strengths and weaknesses of AI tools. While ChatGPT gave me a significant leap forward in implementation, it occasionally struggled with debugging edge cases. The process taught me the importance of combining AI suggestions with manual research and critical thinking to find the most effective solution.
+
+
 
 #### 6. Learning a Concept/Tutorial:
 
-When learning new concepts, I often asked ChatGPT to explain them in simple terms. For example, I would ask, "Please explain what [concept] is in simple terms." By specifically requesting straightforward explanations, I found it easier to grasp the material because the responses were concise and clear. I usually began with broader questions and then gradually narrowed them down to focus on more specific aspects of the concept. For instance, I asked ChatGPT for an easy-to-understand example to reinforce my understanding. If the example made sense, I would follow up by requesting a slightly more complex one. When something wasn't clear enough, I adjusted my questions to target the specific points of confusion. This step-by-step approach helped me break down complex topics into manageable parts, significantly improving my understanding of the concepts.
+When learning new concepts, I found ChatGPT particularly helpful for breaking complex topics into manageable explanations. For example, when I first worked with HTML/CSS/Bootstrap, I struggled to position objects correctly on a webpage. I asked ChatGPT: “How do I center a div horizontally and vertically in Bootstrap 5?” It provided step-by-step instructions and examples, which helped me understand the syntax and concepts clearly.
+
+However, I ran into challenges when making internal adjustments. Sometimes ChatGPT’s suggestions didn’t work, forcing me to manually experiment with the CSS file, add overrides like !important, or revise my TSX code. While this trial-and-error process was frustrating, it ultimately improved my understanding of how the HTML, CSS, and TypeScript components interacted.
+
 
 #### 7. Answering a Question in Class or Discord:
+I don’t think there's a question in class or in Discord that would require me to use GPT, unless another student had a coding specific problem. Even then, someone else more knowledgeable would answer it.
 
-I didn't ask questions on Discord, so I didn't use AI in this context. When I encountered issues, I often found that someone else had already asked about the same problem, and helpful responses were available. This allowed me to debug my code by reading through the discussions without needing to post my own question.
+#### 8. Asking or Answering a Smart-Question:
 
-### 8. Asking or Answering a Smart-Question:
+I havent used ai to ask or answer a smart question because this course is mostly introductory material. Smart-questions are also based on research first anyways, so if there was something specific not listed in an assignment, I would just ask the professor or in the discord.
 
-I didn't ask questions directly on Discord or other platforms because I found that many of my issues had already been addressed in previous discussions. By thoroughly reviewing these responses, I was able to debug my code effectively without needing to post my own questions.
+#### 9. Coding Example:
 
-### 9. Coding Example:
 
-When I needed an example of integrating React and Bootstrap, I asked AI to provide code snippets for specific functionality, such as creating a button that routes to another page. For instance, I asked, "Can you show me how to create a functional component in React with a Bootstrap button that navigates to another route?" The example demonstrated how to use React Router's useNavigate hook and a Bootstrap-styled button to handle routing. I was able to adapt this to my project by adjusting the route and styling as needed. This process not only saved me time but also helped me better understand how to effectively combine React and Bootstrap in my components.
 
-### 10. Explaining Code:
+#### 10. Explaining Code:
 
-In my team's second-hand marketplace project, I encountered lint and build errors while preparing the code for deployment on Vercel. Since this was my team's code, I first needed to understand how it was structured before making any modifications. I asked ChatGPT, "Why am I encountering these lint and build errors, and how can I resolve them?" ChatGPT helped me understand the error messages, pinpoint the underlying issues, and provided suggestions for fixes. With this guidance, I was able to debug the code successfully, ensuring it was functional and ready for deployment. This process not only resolved the errors but also improved my understanding of linting rules and build processes.
+During my final project, I needed to implement dynamic map markers that linked restaurants to their geographic coordinates using latitude and longitude. ChatGPT helped me make a significant leap forward by guiding me through the process of adding these markers during the creation of a restaurant entry. The AI explained how to integrate the coordinates into the map rendering logic effectively, which saved me time and effort.
+However, when I encountered a bug while trying to edit an existing marker’s coordinates, ChatGPT struggled to identify the root cause even when I specifically mentioned the “edit form.” It suggested overly complex solutions that didn’t address the actual problem. After a quick Google search, I discovered that the issue could be fixed with just two simple lines of code. This experience reminded me that while ChatGPT can provide a strong starting point, it’s still important to verify solutions and think critically about the problem at hand.
 
-### 11. Writing Code:
 
-For generating code, I used AI to focus on specific snippets or approaches rather than full solutions. For example, when I wanted to change a dropdown menu in the navbar to a sliding bar using Bootstrap in React, I asked ChatGPT, "How can I implement a sliding bar for the navbar using Bootstrap in React?" Since all the links were already in place, I didn't want to disrupt the existing structure, so I requested examples that I could modify on my own. The suggestions provided a solid starting point, enabling me to implement the sliding bar while maintaining control over the final design and ensuring the links remained functional. This approach saved time and helped me avoid unnecessary changes to the existing code.
+#### 11. Writing Code:
 
-### 12. Documenting Code:
+I frequently used GitHub Copilot to assist with writing code efficiently. One particularly helpful use case was fixing ESLint errors. Copilot would highlight problematic lines of code and provide instant suggestions with clear explanations for the changes. Before applying the fix, it also provided a preview of the added, removed, or modified code, which allowed me to understand the reasoning behind the fix before accepting it. This saved me a significant amount of time that I would have otherwise spent debugging manually or searching for solutions online.
+When Copilot’s suggestions needed further clarification, I often cross-referenced its solutions with ChatGPT. For example, if Copilot fixed a syntax issue but didn’t explain the underlying problem thoroughly, I would paste the suggestion into ChatGPT and ask, “What does this fix address, and why was it necessary?” This process helped me solidify my understanding of the code while leveraging the strengths of both tools.
 
-Although I used AI to understand the code, I did not rely on it to document my code. When reviewing the code, I already had a good understanding of what it was doing, so I didn't see the need to ask AI to document it for me.
+#### 12. Documenting Code:
 
-### 13. Quality Assurance:
+While Copilot is excellent for writing code, it also assisted me in documenting it properly. For instance, when I wrote a complex function, Copilot would suggest inline comments and JSDoc-style documentation that described the inputs, outputs, and purpose of the function. This feature was especially useful in ensuring that my code was clear and maintainable. However, I still made sure to review and adjust the comments to ensure they were accurate and meaningful.
 
-I used AI for quality assurance, particularly during the build process when resolving errors. For instance, if a build failed, I would ask, "Why is this error occurring during the build, and how can I fix it?" while providing the relevant error message and code snippet. AI helped me understand the root cause of issues, such as dependency conflicts or misconfigurations and suggested potential fixes. These insights were especially helpful when dealing with complex build errors, allowing me to resolve them efficiently while ensuring the project remained functional and met all requirements.
 
-### 14. Other Uses in ICS 314 Not Listed:
 
-For assignments where I had to set something up on my own, I first checked the #smart-questions channel on Discord. Usually, someone else had experienced the same issues. If I couldn't find anything helpful there, I turned to Claude for assistance. I would ask for a step-by-step process to resolve my issue. When running certain commands, I occasionally encountered errors. In those cases, I described what I was trying to set up and included the error messages in my query to Claude. For example, "I am trying to connect pgAdmin to my PostgreSQL database, and I keep getting this error: <error>. How can I resolve this?" By doing so, Claude was able to identify what wasn't working and provide clear instructions to fix the issues.
+
+#### 13. Quality Assurance:
+
+For quality assurance, GitHub Copilot has been a game-changer. When ESLint flagged errors during development, Copilot often provided immediate solutions, which I could apply without disrupting my workflow. One example was fixing trailing commas and spacing issues, which are small but common problems that can be tedious to resolve manually.
+
+However, I noticed that Copilot occasionally solved one issue while inadvertently introducing another. For example, fixing a function in one file sometimes removed an important line of code that linked to another file, creating new bugs. I learned to review all suggested changes carefully, ensuring they didn’t create unintended side effects.
+
+When AI tools fell short, I would turn to ChatGPT for a second opinion. ChatGPT was particularly useful for pinpointing deeper issues, such as understanding why a specific error occurred or debugging tricky logic problems. By combining the strengths of both tools, I was able to maintain clean, functional code.
+
+
+
+
+
+#### 14. Other Uses in ICS 314 Not Listed:
+
+
 
 ## III. Impact on Learning and Understanding:
 
-The use of AI tools like ChatGPT and Claude significantly influenced my learning experience in ICS 314. These tools enhanced my comprehension of complex concepts by providing simple explanations and tailored examples. For instance, using AI to break down topics like server-side rendering or caching improved my understanding and enabled me to apply these concepts in my projects. Additionally, AI-assisted with debugging and offered hints or suggestions while still allowing me to maintain control over the final implementation.
+The impact of AI on my learning experience has been substantial. AI tools like ChatGPT and Copilot helped me understand where things go within a project—such as learning schemas, components, and file structures. Over time, I developed a better sense of how different parts of a program fit together.
 
-Since this class followed a flipped classroom model, where we were expected to learn independently with minimal direct instruction, AI became a crucial resource. While screencasts were available, they often used a different tech stack, making them less applicable. As a result, AI became a tool I both had to and could rely on to complete assigned tasks effectively.
+AI also improved my problem-solving skills by helping me recognize patterns. Just like solving a Rubik’s cube involves identifying patterns and applying algorithms, using AI tools to debug or refactor code taught me to think systematically. For example, Copilot’s previews of ESLint fixes made me aware of common formatting mistakes, which helped me write cleaner code over time.
+
+However, AI tools sometimes provided solutions that didn’t work immediately. This forced me to troubleshoot and refine answers, ultimately enhancing my understanding of the underlying concepts.
 
 ## IV. Practical Applications:
 
-Outside ICS 314, I explored the practical applications of AI in collaborative projects. AI helped my team create an efficient, well-developed website that earned us second place in HACC. The project my team created was complex and required significant work, including debugging, implementing new features, and optimizing performance. AI was especially helpful in streamlining the development process by suggesting solutions.
+AI’s role extends far beyond ICS 314. A prominent real-world application is Tesla’s self-driving technology, led by Elon Musk. Tesla’s AI systems rely on machine learning, computer vision, and neural networks to analyze real-time data and make decisions such as lane changes and obstacle detection. This technology showcases how AI can solve complex problems like autonomous driving, which requires split-second decision-making and precision.
 
-Beyond this specific project, AI has become an essential tool in modern software development. It streamlines workflows by automating repetitive tasks, such as debugging, testing, and code formatting, saving time and reducing human error. AI is also valuable for improving code quality, offering suggestions for optimization, and generating clear explanations for complex technical concepts. Additionally, it supports creative problem-solving by providing alternative approaches and fresh perspectives, making it a powerful resource for tackling challenges in both individual and team-based coding projects.
+While I haven’t personally applied AI to side projects yet, seeing how it transforms industries like transportation inspires me to explore its potential in future projects.
 
 ## V. Challenges and Opportunities:
 
-Throughout this class, I was challenged to find a balance in using AI. Relying entirely on AI could negatively impact my learning while avoiding it altogether would limit efficiency and problem-solving. I believe using AI as a supportive tool while ensuring I still complete tasks independently is the most effective approach. However, one challenge was the occasional inaccuracy or lack of context in AI responses, which sometimes required additional research and troubleshooting.
+One of the main challenges with AI is that it doesn’t always provide the right code or solution. For example, when creating React components, AI might default to using <div> elements instead of best practices like semantic React elements. This is where instructor feedback becomes critical for catching these oversights and ensuring the code aligns with course expectations.
 
-Despite these challenges, AI presents significant opportunities to reimagine how software engineering is taught and learned. For instance, integrating AI into courses could help students tackle real-world scenarios by offering dynamic simulations or interactive coding exercises. AI can also act as a mentor, guiding students step-by-step through challenging problems and suggesting alternative approaches to solutions. By encouraging students to think critically while using AI as a learning partner, software engineering education could become more engaging and adaptable to individual needs.
+I also see an opportunity for educators to emphasize using AI tools as a guide, not a replacement for learning. Encouraging students to focus on core fundamentals—like understanding documentation and writing code independently—will ensure they build a strong foundation while benefiting from AI.
 
 ## VI. Comparative Analysis:
 
-Traditional teaching methods, such as lectures and written instructions, provide a structured and comprehensive foundation for software engineering concepts. These methods encourage knowledge retention by systematically presenting material and reinforcing theoretical understanding through repetition and practice. However, traditional approaches sometimes lack the flexibility to adapt to individual learning styles or provide immediate feedback, which may leave some students struggling with specific challenges. While these methods establish a strong theoretical base, they are not always as effective for real-time problem-solving or hands-on application.
+Engagement:
+Traditional teaching methods, such as problem-specific videos or lectures, feel more engaging because they provide structure and context. AI tools, on the other hand, feel like crash courses mixed with chatbots. While AI is interactive, having a real person teaching concepts still feels more natural and effective.
 
-In contrast, AI-enhanced approaches offer immediate, contextualized assistance, making them more engaging and effective for practical skill development. They provide personalized responses tailored to individual needs, addressing specific areas where students may struggle. Since every student learns at a different pace and brings varying levels of prior knowledge, AI encourages engagement and deeper understanding by adapting to these differences. Additionally, AI can simulate real-world scenarios, allowing students to apply concepts in a practical context, which enhances knowledge retention and builds critical skills. By complementing traditional methods, AI tools bridge the gap between theoretical learning and practical experience, creating a more flexible and effective learning environment.
+Knowledge Retention:
+I retain knowledge better through traditional methods like lectures and reading when I’m actively building something alongside it. AI can feel static unless used as a supplement while working on a project.
+
+Skill Development:
+Skill development is best when combining both approaches. AI enhances practical skills by providing real-time answers and fixes, but traditional teaching builds a deeper understanding of concepts.
+
 
 ## VII. Future Considerations:
 
-Looking ahead, AI is likely to play a central role in shaping software engineering education. With advancements in AI technology, tools could seamlessly integrate into learning platforms to provide dynamic feedback on assignments, personalized study paths, and real-time suggestions for improving projects. These features would not only make learning more engaging but also enable students to better understand complex concepts and enhance their skills. 
+The future of AI in software engineering education is bright. I see AI enabling more personalized learning experiences, where tools can adapt to a student’s learning style—whether it’s visual, auditory, or interactive. For example, AI could explain code in a conversational tone tailored to how someone prefers to learn.
 
-However, the increasing reliance on AI also raises challenges that must be addressed. Ensuring the accuracy of AI-generated responses is essential, as errors could mislead students. Over-reliance on AI might also reduce opportunities for developing problem-solving and critical thinking skills, which are crucial in software engineering. To combat these issues, incorporating AI literacy into the curriculum would help students use these tools responsibly and effectively. Additionally, concerns such as data security and unintended biases in AI systems must be considered as these technologies become more prevalent in education. By thoughtfully integrating AI, educators can maximize its benefits while addressing its limitations.
+However, the biggest challenge will be ensuring students don’t become overly reliant on AI. To prepare for the real world, students must still do the “legwork”: understanding syntax, referencing documentation, and being able to explain their code completely. AI is an excellent tool, but it must be used ethically and responsibly.
+
 
 ## VIII. Conclusion:
+AI has proven to be one of the greatest tools in modern technology, offering significant benefits like jump-starting projects, debugging, and explaining complex topics. However, it’s essential to balance AI usage with traditional learning methods to build a strong foundation.
 
+My recommendation is for students to use AI as a tool to assist their learning—not replace it. Learning the basics, referencing documentation, and practicing coding independently are still critical skills for any software engineer. Overall, AI is most effective when used ethically and responsibly to enhance, not replace, human learning.
 
-
-Reflecting on the use of AI in the Software Engineering course, I found it to be an incredibly helpful tool for understanding concepts, debugging errors, and solving problems efficiently. However, overusing AI can hinder long-term learning. While it may help resolve immediate issues, relying too heavily on AI often means missing the opportunity to fully internalize solutions, making it harder to recall or apply the same concepts independently in the future. This is particularly relevant in a flipped course model, where students are expected to take charge of their learning. AI can serve as a valuable support system in this context, but striking the right balance between assistance and independent problem-solving is crucial.
-
-If more up-to-date resources were available for students to learn from, it would likely reduce over-reliance on AI for classwork. While AI will inevitably become a prevalent tool in software engineering, users should avoid relying on it entirely and focus on developing their critical thinking and problem-solving skills.
