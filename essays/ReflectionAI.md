@@ -117,8 +117,20 @@ And so forth, a jump into the WOD with the boilerplate, formatting, and everythi
 
 I use GPT to break down things if I don't understand them, or if I'm on a hunch.
 
+Let's say I don't understand what the boiler plate is for, I'll simply ask "What does this mean? <insert boiler plate from #9>"
 
+GPT's response:
 
+```
+
+<!DOCTYPE html> declares the document as HTML5 for proper browser rendering.
+<html lang="en"> sets the primary language to English.
+The <meta charset="UTF-8"> ensures correct character encoding for all symbols and text.
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> makes the page responsive on all screen sizes.
+
+```
+
+Okay, so then some of it is pretty self explainable, I learned that html lang sets the language, and if I wanted it to be Frenchs I can simply change "en" to "fr".
 #### 11. Writing Code:
 
 I frequently used GitHub Copilot to assist with writing code efficiently. One particularly helpful use case was fixing ESLint errors. Copilot would highlight problematic lines of code and provide instant suggestions with clear explanations for the changes. Before applying the fix, it also provided a preview of the added, removed, or modified code, which allowed me to understand the reasoning behind the fix before accepting it. This saved me a significant amount of time that I would have otherwise spent debugging manually or searching for solutions online.
