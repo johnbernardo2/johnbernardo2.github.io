@@ -31,24 +31,20 @@ Personally, I’ve found AI invaluable for breaking down complex concepts. Wheth
 
 #### 1. Experience WODs:
 
-Initally, I would just watch the videos and copy what the instructor in the video had for their code. Eg E12 and the rest of the Jamba Juice WOD’s.
-But for future experience WOD’s like E46: Island Snow in Nextjs, I would just copy the instructions whole and have GPT output the whole code.
-I think it’s fine if you understand the syntax and language.
-
+Initially, I would rely heavily on the instructional videos for the Experience WODs, simply copying the code the instructor provided. For example, during E12 and the Jamba Juice WODs, I followed the videos closely to ensure I didn’t make mistakes. However, as the course progressed, particularly with assignment WODs like E46: Island Snow in Next.js, I used ChatGPT to generate code based on the instructions, sometimes pasting the entire task prompt into GPT. I felt this was fine as long as I understood the syntax, logic, and language being used. GPT gave me a quick way to get started, but I still ensured I reviewed the output to understand the implementation.
 
 
 #### 2. In-class Practice WODs:
 
-Same thing here, if I’m going to practice the WOD at home and in class, and for the actual WOD, I’m going to do the same thing.
+For practice WODs, my approach was pretty much the same. Whether working at home or in class, I would use ChatGPT to generate solutions based on the instructions. This process helped me quickly identify what needed to be done and reduced time spent getting stuck on small issues. For example, if a WOD involved styling elements or creating a React component, GPT’s output provided a strong starting point. I often made minor changes afterward to ensure I understood the solution fully.
 
 #### 3. In-class WODs:
 
-And repeat, I go straight to copying the instructions, and making minor changes after. It’s just a big jump to have– having your footer, nav, and body already set up to the right color, size, and such.
+During the actual WODs, I continued the same method—copying the instructions and using GPT to generate the code quickly. This gave me a huge head start, especially when dealing with repetitive components like footers, navbar, and body content that required specific styling. Having the basic structure already set up with the correct colors and sizes allowed me to focus on smaller tweaks and completing the functionality.
 
 #### 4. Essays: 
-I mostly use grammarly and occasionally ChatGPT to ask myself questions to answer a topic. I feel that if GPT is used to rewrite a whole essay it becomes too formal, or that it becomes less of you.
 
-
+For essays, I primarily used Grammarly to refine my grammar and tone. Occasionally, I would use ChatGPT to ask myself questions about the topic to brainstorm ideas. For instance, if I had to explain a personal topic, I’d ask GPT: “What can I ask myself to answer this”?” This helped me organize my thoughts and ensure I addressed the topic clearly. However, I avoided using GPT to rewrite entire essays because it often made the writing too formal and less authentic. I feel that my voice is an important part of my writing, and overusing GPT removes that personal touch.
 
 #### 5. Final Project: 
 
@@ -75,8 +71,45 @@ I don’t think there's a question in class or in Discord that would require me 
 I havent used ai to ask or answer a smart question because this course is mostly introductory material. Smart-questions are also based on research first anyways, so if there was something specific not listed in an assignment, I would just ask the professor or in the discord.
 
 #### 9. Coding Example:
+A simple coding example where I used GPT was for the WOD E30: BrowserHistory1. The task was to create an HTML document with four sections: "Introduction," "A brief history of IE," "A brief history of Firefox," and "A brief history of Chrome."
+
+Instead of starting from scratch, I asked GPT to generate a basic structure with this prompt:
+
+"Do 6, Structure the document into four subsections: “Introduction“, “A brief history of IE“, “A brief history of Firefox“, and “A brief history of Chrome“. The links take you to text you can use for each of these sections. Be sure to preserve the paragraphs."
+
+'''
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>A history of browsers</title>
+</head>
+<body>
+  <!-- Table of Contents -->
+  <section id="table-of-contents">
+    <h1>Table of Contents</h1>
+    <ul>
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#ie">A brief history of IE</a></li>
+      <li><a href="#firefox">A brief history of Firefox</a></li>
+      <li><a href="#chrome">A brief history of Chrome</a></li>
+    </ul>
+  </section>
+
+  <!-- Introduction Section -->
+  <section id="introduction">
+    <h2>Introduction</h2>
+    <p>
+      The history of web browsers dates back to the early 1990s, where the first browsers enabled users to explore the World Wide Web. Since then, browsers have evolved tremendously to become powerful tools for accessing the internet.
+      Learn more about the <a href="https://en.wikipedia.org/wiki/History_of_the_web" target="_blank">history of the web</a>.
+    </p>
+  </section>
 
 
+'''
+
+And so forth, a jump into the WOD with the boilerplate, formatting, and everything rather than having to type it all manually.
 
 
 
