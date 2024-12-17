@@ -13,7 +13,7 @@ labels:
 
 <div style="display: flex; gap: 10px;">
     <img src="../img/girlCyborg.jpg" alt="Cyborg Girl" style="width: 200px;">
-    <img src="../img/terminator.jpg" alt="Terminator" style="width: 300px;">
+    <img src="../img/terminator.jpg" alt="Terminator" style="width: 280px;">
 </div>
 
 
