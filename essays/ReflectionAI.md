@@ -31,16 +31,22 @@ Personally, I’ve found AI invaluable for breaking down complex concepts. Wheth
 
 #### 1. Experience WODs:
 
+Initally, I would just watch the videos and copy what the instructor in the video had for their code. Eg E12 and the rest of the Jamba Juice WOD’s.
+But for future experience WOD’s like E46: Island Snow in Nextjs, I would just copy the instructions whole and have GPT output the whole code.
+I think it’s fine if you understand the syntax and language.
+
 
 
 #### 2. In-class Practice WODs:
 
+Same thing here, if I’m going to practice the WOD at home and in class, and for the actual WOD, I’m going to do the same thing.
 
 #### 3. In-class WODs:
 
-
+And repeat, I go straight to copying the instructions, and making minor changes after. It’s just a big jump to have– having your footer, nav, and body already set up to the right color, size, and such.
 
 #### 4. Essays: 
+I mostly use grammarly and occasionally ChatGPT to ask myself questions to answer a topic. I feel that if GPT is used to rewrite a whole essay it becomes too formal, or that it becomes less of you.
 
 
 
@@ -79,6 +85,7 @@ I havent used ai to ask or answer a smart question because this course is mostly
 
 #### 10. Explaining Code:
 
+I use GPT to break down things if I don't understand them, or if I'm on a hunch.
 
 
 
