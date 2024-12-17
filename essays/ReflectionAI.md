@@ -13,7 +13,7 @@ labels:
 
 
 <div class="text-center p-4">
-<img width="400px" src="../img/girlCyborg.jpg" class="img-thumbnail">
+<img width="350px" src="../img/girlCyborg.jpg" class="img-thumbnail">
 <img width="500px" src="../img/terminator.jpg" class="img-thumbnail">
 </div>
 
