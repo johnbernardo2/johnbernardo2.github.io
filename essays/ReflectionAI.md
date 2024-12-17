@@ -77,7 +77,7 @@ Instead of starting from scratch, I asked GPT to generate a basic structure with
 
 "Do 6, Structure the document into four subsections: “Introduction“, “A brief history of IE“, “A brief history of Firefox“, and “A brief history of Chrome“. The links take you to text you can use for each of these sections. Be sure to preserve the paragraphs."
 
-'''
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,7 +107,7 @@ Instead of starting from scratch, I asked GPT to generate a basic structure with
   </section>
 
 
-'''
+```
 
 And so forth, a jump into the WOD with the boilerplate, formatting, and everything rather than having to type it all manually.
 
