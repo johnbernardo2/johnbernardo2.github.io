@@ -83,6 +83,8 @@ I havent used ai to ask or answer a smart question because this course is mostly
 
 
 
+
+
 #### 10. Explaining Code:
 
 I use GPT to break down things if I don't understand them, or if I'm on a hunch.
@@ -96,7 +98,11 @@ When Copilot’s suggestions needed further clarification, I often cross-referen
 
 #### 12. Documenting Code:
 
+While GitHub Copilot is excellent for writing code, it also assisted me in improving code clarity by suggesting inline comments when working with TypeScript and adhering to Airbnb ESLint standards. For example, when writing a complex function, Copilot would propose comments describing what certain parts of the function did, making it easier to understand at a glance.
 
+This was particularly helpful for maintaining clean and readable code, especially since Airbnb ESLint enforces strict formatting and clarity rules. If I missed something, such as adding clarity for a parameter’s purpose or the role of a conditional statement, Copilot would automatically highlight areas where comments would be helpful.
+
+That said, I always made sure to review and refine the suggested comments to ensure they reflected the true logic and purpose of the code. While Copilot’s suggestions were helpful, they sometimes lacked context or were overly generic, so refining them was still a necessary step for accuracy and readability.
 
 
 
@@ -115,7 +121,7 @@ When AI tools fell short, I would turn to ChatGPT for a second opinion. ChatGPT 
 
 #### 14. Other Uses in ICS 314 Not Listed:
 
-
+Everything used in ICS 314 is already listed.
 
 ## III. Impact on Learning and Understanding:
 
