@@ -11,11 +11,11 @@ labels:
   - Github Copilot
 ---
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-    <img src="../img/girlCyborg.jpg" alt="Cyborg Girl" style="width: 200px;">
-    <img src="../img/terminator.jpg" alt="Terminator" style="width: 280px;">
-</div>
 
+<div class="text-center p-4">
+<img width="500px" src="../img/girlCyborg.jpg" class="img-thumbnail">
+<img width="500px" src="../img/terminator.jpg" class="img-thumbnail">
+</div>
 
 
 ## I. Introduction: 
