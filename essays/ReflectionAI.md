@@ -50,6 +50,11 @@ For my final project, implementing dynamic map markers using the Google Maps API
 
 Once the initial functionality was in place—where adding a restaurant entry automatically generated a marker on the map—I ran into a bug while trying to edit the marker’s location. The problem was that updates would only work if the new coordinates were within one integer of the original. I asked ChatGPT multiple times, but it failed to identify the root cause and instead suggested unnecessarily complex solutions. Eventually, a quick Google search revealed that the issue could be resolved with just two lines of code.
 
+Original Coordinates:
+
+New Coordinates:
+
+
 This experience highlighted both the strengths and weaknesses of AI tools. While ChatGPT gave me a significant leap forward in implementation, it occasionally struggled with debugging edge cases. The process taught me the importance of combining AI suggestions with manual research and critical thinking to find the most effective solution.
 
 
@@ -74,8 +79,7 @@ I havent used ai to ask or answer a smart question because this course is mostly
 
 #### 10. Explaining Code:
 
-During my final project, I needed to implement dynamic map markers that linked restaurants to their geographic coordinates using latitude and longitude. ChatGPT helped me make a significant leap forward by guiding me through the process of adding these markers during the creation of a restaurant entry. The AI explained how to integrate the coordinates into the map rendering logic effectively, which saved me time and effort.
-However, when I encountered a bug while trying to edit an existing marker’s coordinates, ChatGPT struggled to identify the root cause even when I specifically mentioned the “edit form.” It suggested overly complex solutions that didn’t address the actual problem. After a quick Google search, I discovered that the issue could be fixed with just two simple lines of code. This experience reminded me that while ChatGPT can provide a strong starting point, it’s still important to verify solutions and think critically about the problem at hand.
+
 
 
 #### 11. Writing Code:
@@ -85,7 +89,7 @@ When Copilot’s suggestions needed further clarification, I often cross-referen
 
 #### 12. Documenting Code:
 
-While Copilot is excellent for writing code, it also assisted me in documenting it properly. For instance, when I wrote a complex function, Copilot would suggest inline comments and JSDoc-style documentation that described the inputs, outputs, and purpose of the function. This feature was especially useful in ensuring that my code was clear and maintainable. However, I still made sure to review and adjust the comments to ensure they were accurate and meaningful.
+
 
 
 
