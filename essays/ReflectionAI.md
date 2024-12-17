@@ -10,10 +10,11 @@ labels:
   - ChatGPT
   - Github Copilot
 ---
-<img src="../img/girlCyborg.jpg" alt="Cyborg Girl" style="width: 300px; display: inline-block;">
 
-<img src="../img/terminator.jpg" alt="Terminator" style="width: 300px; display: inline-block;">
-
+<div style="display: flex; gap: 10px;">
+    <img src="../img/girlCyborg.jpg" alt="Cyborg Girl" style="width: 200px;">
+    <img src="../img/terminator.jpg" alt="Terminator" style="width: 200px;">
+</div>
 
 
 ## I. Introduction: 
