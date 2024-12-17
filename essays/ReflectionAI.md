@@ -11,10 +11,11 @@ labels:
   - Github Copilot
 ---
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; gap: 10px; justify-content: center;">
     <img src="../img/girlCyborg.jpg" alt="Cyborg Girl" style="width: 200px;">
     <img src="../img/terminator.jpg" alt="Terminator" style="width: 280px;">
 </div>
+
 
 
 ## I. Introduction: 
