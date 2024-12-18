@@ -4,7 +4,7 @@ type: essay
 title: "My View on Typescript as a New Programmer"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-04
-published: true
+published: false
 labels:
   - Typescript
 ---
