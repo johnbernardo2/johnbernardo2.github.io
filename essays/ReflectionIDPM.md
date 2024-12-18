@@ -12,12 +12,12 @@ labels:
  
 ---
 
-## Preface
+## Introduction
 
 Our group was tasked to create a web application for all the restaurants at UH Manoa. The application features a user-friendly interface for users, vendors, and admins. Users can load up the application to find where they might want to eat, explore the type of food available, and access restaurant contact information. Vendors can submit and upload their restaurant details, including coordinates to display their location on Google Maps. Admins manage and control all aspects of the platform.
 
 
-## Even though your estimates were always off, sometimes way off, was there any benefit from making effort estimates for the issues in advance? If so, what benefits? If not, why not?
+## Benefits from making effort estimates for the issues in advance?
 
 Yes, I believe there are significant benefits to making effort estimates in advance. Two main reasons stand out: Parkinson’s Law, which states, "Work expands to fill the time available for its completion," and the value of gauging your effort and skill level.
 
@@ -27,11 +27,11 @@ For instance, one seemingly simple task was uploading photos for the test restau
 
 These experiences taught me that even basic tasks can have unforeseen complexities. Going forward, I can better account for these factors when making estimates.
 
-## Was there any benefit for tracking the actual effort expended on the issues? If so, what benefits? If not, why not?
+## Benefits for tracking the actual effort expended on the issues?
 
 Since this project was entirely new to me, tracking actual effort didn’t drastically adjust my workflow. However, it provided valuable insights into how much time specific tasks required. For example, tasks like integrating Google Maps or generating test images revealed that non-coding tasks often took longer than expected. Tracking this time gave me a clearer picture of how to allocate my time in future projects and helped me understand the effort required for different types of work.
 
-## How did you track your actual effort? How accurate do you believe your tracking was?
+## How I tracked my actual effort
 
 I tracked my effort using an application called Pomofocus, which is based on the Pomodoro method. This tool allowed me to set a task, start a timer, and log each completed Pomodoro interval. I adjusted the default work period from 25 minutes to 40 minutes, followed by a 12-minute break, as I found this ratio more effective for maintaining focus and avoiding burnout.
 
