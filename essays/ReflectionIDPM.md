@@ -13,8 +13,8 @@ labels:
 ---
 
 <div class="text-center p-4">
-<img width="500px" src="../img/timetracking.jpg" class="img-thumbnail">
-<img width="500px" src="../img/pomofocus40.png" class="img-thumbnail">
+<img width="600px" src="../img/timetracking.jpg" class="img-thumbnail">
+<img width="600px" src="../img/pomofocus40.png" class="img-thumbnail">
 </div>
 ## Introduction
 
