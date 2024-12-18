@@ -4,7 +4,7 @@ type: essay
 title: "UI? Frameworks? What is that?"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
-published: true
+published: false
 labels:
   - Bootstrap 5
   - HTML
