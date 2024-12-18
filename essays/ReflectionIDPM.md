@@ -13,7 +13,7 @@ labels:
 ---
 
 <div class="text-center p-4">
-<img width="350px" src="../img/timetracking.jpg" class="img-thumbnail">
+<img width="500px" src="../img/timetracking.jpg" class="img-thumbnail">
 <img width="500px" src="../img/pomofocus40.png" class="img-thumbnail">
 </div>
 ## Introduction
@@ -29,14 +29,14 @@ For example, I was responsible for a few back-end tasks, including implementing 
 
 ## Benefits from making effort estimates for the issues in advance?
 
-Yes, I believe there are significant benefits to making effort estimates in advance. Two main reasons stand out: Parkinson’s Law and the value of gauging your effort and skill level.
+Yes, I believe there are significant benefits to making effort estimates in advance. Two main reasons stand out: Parkinson’s Law, which states, "Work expands to fill the time available for its completion," and the value of gauging your effort and skill level.
 
-Parkinsons law states that "Work expands to fill the time available for its completion.” In simpler terms, the longer you give yourself to complete a task, the longer it will take.
+Parkinson’s Law illustrates that setting an estimate gives a concrete deadline to work toward, which helps maintain focus and efficiency. Additionally, estimating effort provides a baseline to gauge one’s skill level and identify areas for improvement.
 
-It illustrates that setting an estimate gives a concrete deadline to work toward, which helps maintain focus and efficiency. Additionally, estimating effort provides a baseline to gauge one’s skill level and identify areas for improvement.
-For instance, one seemingly simple task was uploading photos for the test restaurants. I estimated this task would take less than an hour. However, it ended up taking two hours due to unexpected challenges, such as finding images that were non-copyrighted and free to use. Another hurdle was creating logos for the test restaurants using DALL-E. Generating logos were fine at first, but sometimes there would be errors in the wording, and either I would have to manually edit the logos, or continue to prompt new logos on luck,
+For instance, one seemingly simple task was uploading photos for the test restaurants. I estimated this task would take less than an hour. However, it ended up taking two hours due to unexpected challenges, such as finding images that were non-copyrighted and free to use. Another hurdle was creating logos for the test restaurants using DALL-E. Although the AI-generated logos were mostly fine, one logo consistently had misspelled text, requiring manual editing or regeneration with new prompts.
 
 These experiences taught me that even basic tasks can have unforeseen complexities. Going forward, I can better account for these specfic factors when making estimates.
+
 
 ## Benefits for tracking the actual effort expended on the issues?
 
