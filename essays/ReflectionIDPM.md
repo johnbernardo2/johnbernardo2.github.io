@@ -12,6 +12,10 @@ labels:
  
 ---
 
+<div class="text-center p-4">
+<img width="350px" src="../img/timetracking.jpg" class="img-thumbnail">
+<img width="500px" src="../img/pomofocus40.png" class="img-thumbnail">
+</div>
 ## Introduction
 
 Our group was tasked to create a web application for all the restaurants at UH Manoa. The application features a user-friendly interface for users, vendors, and admins. Users can load up the application to find where they might want to eat, explore the type of food available, and access restaurant contact information. Vendors can submit and upload their restaurant details, including coordinates to display their location on Google Maps. Admins manage and control all aspects of the platform.
