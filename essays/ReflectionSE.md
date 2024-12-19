@@ -57,13 +57,13 @@ These concepts will undoubtedly shape my approach to internships, jobs, and pers
 
 Manoa Bites is a web application designed to help students and staff at the University of Hawaii at Manoa easily find food options across campus locations. With Manoa Bites, users can discover available menu items, search for specific restaurants, and find out which dishes are being served on any given day. Key features include:
 
-#### Campus-wide Food Directory: Consolidates food options from Campus Center, food trucks, Manoa Gardens, and other campus locations.
+###### 1. Campus-wide Food Directory: Consolidates food options from Campus Center, food trucks, Manoa Gardens, and other campus locations.
 
-#### Real-time Updates: Vendors can log in to update daily menus, ensuring users always see current options.
+###### 2.  Real-time Updates: Vendors can log in to update daily menus, ensuring users always see current options.
 
-#### Personalized Experience: Users can set food preferences and get suggestions tailored to their tastes.
+###### 3. Personalized Experience: Users can set food preferences and get suggestions tailored to their tastes.
 
-#### Role-Based Access: Three user roles (Users, Vendors, and Admins) for personalized and manageable access.
+###### 4. Role-Based Access: Three user roles (Users, Vendors, and Admins) for personalized and manageable access.
 
 Through this project, I gained a clearer understanding of the software engineering process. I learned how PostgreSQL manages user data, including account details, email, and roles. I also improved my understanding of tabling in PostgreSQL and recognized Prisma’s role as a schema intermediary. However, I realized that I need to study these tools further to fully grasp their potential.
 
