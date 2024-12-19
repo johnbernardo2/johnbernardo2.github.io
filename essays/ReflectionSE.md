@@ -12,7 +12,7 @@ labels:
 ---
 <div class="text-center p-4">
 <img width="600px" src="../img/housefoundation.jpg" class="img-thumbnail">
-<img width="650px" src="../img/githubUniverse.jpg" class="img-thumbnail">
+<img width="600px" src="../img/githubUniverse.jpg" class="img-thumbnail">
 </div>
 
 # Introduction
