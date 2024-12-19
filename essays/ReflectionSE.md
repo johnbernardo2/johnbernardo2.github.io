@@ -10,6 +10,10 @@ labels:
 - Configuration Management
 
 ---
+<div class="text-center p-4">
+<img width="600px" src="../img/housefoundation.jpg" class="img-thumbnail">
+<img width="600px" src="../img/githubUniverse.png" class="img-thumbnail">
+</div>
 
 # Introduction
 As my software engineering class comes to an end, I’ve realized that the lessons learned extend far beyond web application development. While I gained technical skills in React, Prisma, PostgreSQL, and more, the real value lies in understanding fundamental software engineering concepts like Agile Project Management and Configuration Management. These principles have shaped my approach to teamwork, task management, and personal growth as a developer. This reflection explores how these concepts have influenced my learning and how they can be applied in various contexts.
