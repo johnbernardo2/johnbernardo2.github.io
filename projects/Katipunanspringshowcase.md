@@ -11,8 +11,8 @@ summary: "My class and I acted and created a video to showcase for a film festiv
 ---
 
 <div class="text-center p-4">
-<img width="500px" src="../img/dagat1.png" class="img-thumbnail">
-<img width="500px" src="../img/dagat2.png" class="img-thumbnail">
+<img width="400px" src="../img/dagat2.png" class="img-thumbnail">
+<img width="400px" src="../img/dagat1.png" class="img-thumbnail">
 </div>
 
 The Katipunan Spring Showcase is an annual spring semester event held by the Katipunan Club at UH Manoa. It is a film showcasing composed of multiple Filipino classes who have created a music video based on that years theme. It is also called Katipunan Got Talent (KGT) in the Fall semester.
