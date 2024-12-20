@@ -21,7 +21,7 @@ The Katipunan Spring Showcase, an annual event hosted by the Katipunan Club at U
 
 ## My Role and Contributions
 
-In this group project, I played a dual role as an actor in the film and a contributor to the scriptwriting process. As part of the Filipino class, I helped translate English dialogues into Tagalog (Filipino) and created original dialogues that matched the tone and theme of the story. Our film was a blend of comedy, mystery, and soap opera. It opened with a romantic scene, transitioned into musical-style introductions inspired by Friends, and concluded with a dramatic twist—a mystery surrounding the death of a character introduced in the opening scene.
+In this group project, I played a dual role as an actor in the film and a contributor to the scriptwriting process. As part of the Filipino class, I helped translate English dialogues into Tagalog (Filipino) and created original dialogues that matched the tone and theme of the story. Our film was a blend of comedy, mystery, and soap opera. It opened with a romantic scene, transitioned into musical-style introductions similar to Friends, and concluded with a dramatic twist—a mystery surrounding the death of a character introduced in the opening scene.
 
 Each team member brought unique skills to the table: some focused on filming, editing, or directing, while others managed costumes and props. However, everyone participated as actors, appearing in at least one scene. Collaboration and adaptability were crucial as we balanced our individual responsibilities with the collective vision of the project.
 
