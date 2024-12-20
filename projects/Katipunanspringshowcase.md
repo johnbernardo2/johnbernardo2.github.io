@@ -11,7 +11,7 @@ summary: "My class and I acted and created a video to showcase for a film festiv
 ---
 
 <div class="text-center p-4">
-<img width="350px" src="../img/dagat1.png" class="img-thumbnail">
+<img width="500px" src="../img/dagat1.png" class="img-thumbnail">
 <img width="500px" src="../img/dagat2.png" class="img-thumbnail">
 </div>
 
