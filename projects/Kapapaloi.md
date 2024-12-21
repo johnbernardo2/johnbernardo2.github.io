@@ -23,7 +23,7 @@ Ka Papa Lo’i is a service-learning experience centered around traditional Hawa
 
 This was a collaborative effort involving many volunteers. My primary responsibilities included:
 
-1. <strong>Taro Plant Maintenance/<strong>: I carefully removed dead stems and leaves from each taro plant, as these could become invasive or hinder growth.
+1. <strong>Taro Plant Maintenance</strong>: I carefully removed dead stems and leaves from each taro plant, as these could become invasive or hinder growth.
 I also reshaped and reinforced the mud around the base of the plants to support healthy growth.
 
 2. <strong>Soil Preparation</strong>: I participated in compacting and reinforcing the soil by trampling specific areas, which helps prepare the land for new and existing taro plants.
