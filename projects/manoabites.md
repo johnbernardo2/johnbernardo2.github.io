@@ -10,8 +10,9 @@ labels:
   - HTML/CSS
   - Bootstap 5
   - GitHub
-  - Postgresql
+  - PostgreSQL
   - Prisma
+  - React
 summary: "A responsive web application for travel planning that my team developed in ICS 314."
 ---
 
