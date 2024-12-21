@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/actingicon.jpg
+image: img/katipunanBLACK.jpg
 title: "Katipunan Spring Showcase"
 date: 2024
 published: true
