@@ -12,9 +12,9 @@ summary: "Volunteering for the Ka Papa Lo'i program in Punalu'u"
 ---
 
 <div class="text-center p-4">
-<img width="500px" src="../img/loi1.png" class="img-thumbnail">
-<img width="500px" src="../img/loi2.png" class="img-thumbnail">
-<img width="500px" src="../img/loi3.png" class="img-thumbnail">
+<img width="400px" src="../img/loi1.png" class="img-thumbnail">
+<img width="400px" src="../img/loi2.png" class="img-thumbnail">
+<img width="400px" src="../img/loi3.png" class="img-thumbnail">
 </div>
 
 The Ka Papa Lo’i is a service learning event in which volunteers can learn about the land (Aina) and help maintain Hawaiian agriculture. Two locations that I’m aware about and have particapted in about are Ka Papa Lo’i Kanewai, here on campus and Ka Papa Lo’i Punalu’u, North East side of Oahu.
