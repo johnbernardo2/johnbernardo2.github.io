@@ -174,9 +174,11 @@ However, AI tools sometimes provided solutions that didn’t work immediately. T
 
 ## IV. Practical Applications:
 
-AI’s role extends far beyond ICS 314. A prominent real-world application is Tesla’s self-driving technology, led by Elon Musk. Tesla’s AI systems rely on machine learning, computer vision, and neural networks to analyze real-time data and make decisions such as lane changes and obstacle detection. This technology showcases how AI can solve complex problems like autonomous driving, which requires split-second decision-making and precision.
+AI’s role extends far beyond ICS 314 and has the potential to transform industries and daily life. One notable example is Tesla’s self-driving technology, which uses AI to analyze real-time data and make split-second decisions, such as detecting pedestrians and swerving to avoid accidents. This application highlights AI’s ability to enhance safety and save lives—something no other company has implemented on this scale. It’s inspiring to see how these advancements set a new standard for innovation and make technology work for people in critical, life-saving ways.
 
-While I haven’t personally applied AI to side projects yet, seeing how it transforms industries like transportation inspires me to explore its potential in future projects.
+While I haven’t personally applied AI to side projects yet, I see opportunities where it could be invaluable. For instance, an AI tool that combines debugging with detailed insights into the root cause of errors would not only speed up development but also deepen understanding. Similarly, AI could streamline task management by using voice commands to organize tasks into charts or lists automatically—whether it’s categorizing groceries or sorting project deadlines for school.
+
+AI could also have broader societal impacts, such as assisting law enforcement. For example, it could analyze fragmented victim statements and suggest potential matches for suspect profiles, helping streamline investigations and support communication. While speculative, such uses demonstrate the exciting potential AI holds for addressing real-world challenges beyond software engineering.
 
 ## V. Challenges and Opportunities:
 
@@ -187,13 +189,13 @@ I also see an opportunity for educators to emphasize using AI tools as a guide, 
 ## VI. Comparative Analysis:
 
 **Engagement**:
-Traditional teaching methods, such as problem-specific videos or lectures, feel more engaging because they provide structure and context. AI tools, on the other hand, feel like crash courses mixed with chatbots. While AI is interactive, having a real person teaching concepts still feels more natural and effective.
+Traditional teaching methods, like lectures and in-class activities, offer an engagement level that AI tools struggle to replicate. For example, when working through in-class WODs with classmates, I found that the interaction and shared problem-solving were far more insightful and memorable than using ChatGPT. Human-to-human learning fosters reciprocity and deeper understanding, which is harder to achieve through an AI-driven, text-based exchange.
 
 **Knowledge Retention**:
-I retain knowledge better through traditional methods like lectures and reading when I’m actively building something alongside it. AI can feel static unless used as a supplement while working on a project.
+I’ve noticed that I retain knowledge better when learning through structured, traditional methods, such as watching tutorials or lectures, because they provide context and encourage active note-taking. While AI can clarify specific questions or give quick answers, its lack of structure makes it less effective for long-term retention. I’ve found that taking notes, revisiting material, and practicing concepts through guided examples lead to a stronger understanding of the material.
 
 **Skill Development**:
-Skill development is best when combining both approaches. AI enhances practical skills by providing real-time answers and fixes, but traditional teaching builds a deeper understanding of concepts.
+Skill development is most effective when combining traditional and AI-assisted approaches. AI tools like GitHub Copilot provide real-time fixes and suggestions that improve coding efficiency, while traditional teaching builds a deeper conceptual foundation. For instance, I’ve relied on Copilot to correct ESLint errors quickly, but lectures and class discussions have been critical for understanding why certain coding conventions matter. Together, these methods ensure that I’m not only solving problems but also learning the principles behind them.
 
 
 ## VII. Future Considerations:
