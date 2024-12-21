@@ -6,7 +6,7 @@ title: "Ka Papa Lo'i"
 date: 2022
 published: true
 labels:
-  - SLS
+  - Service Learning
   - Volunteering
 summary: "Volunteering for the Ka Papa Lo'i program in Punalu'u"
 ---
