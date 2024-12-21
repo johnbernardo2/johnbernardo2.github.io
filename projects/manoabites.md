@@ -15,7 +15,7 @@ labels:
   - React
 summary: "A responsive web application for discovering campus food options, featuring role-based access, dynamic map markers, and real-time menu updates."
 ---
-<img class="img-fluid" style="border-radius: 50px;" src="../img/manoabitesHOMEPAGE.png">
+<img class="img-fluid" style="border-radius: 15px;" src="../img/manoabitesHOMEPAGE.png">
 
 Manoa Bites is a web application designed to help students and staff at the University of Hawaiʻi at Mānoa easily navigate food options on campus. The app consolidates menu information, provides tailored recommendations, and allows vendors to update their offerings in real-time. Key features include:
 
