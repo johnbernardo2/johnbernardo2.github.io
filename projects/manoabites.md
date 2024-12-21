@@ -25,7 +25,7 @@ Manoa Bites is a web application designed to help students and staff at the Univ
 3. Personalized Recommendations: Users can set preferences to receive suggestions tailored to their tastes.
 4. Role-Based Access: Differentiated access for Users, Vendors, and Admins for a streamlined experience.
 
-## .My Role and Contributions
+## My Role and Contributions
 In this collaborative project, I played a key role in implementing two major features:
 
 1. Page Routing and Form Functionality:
@@ -33,7 +33,6 @@ In this collaborative project, I played a key role in implementing two major fea
 - Designed and implemented the signup and login pages with email and password functionality.
 
 - Added an optional "Signup Key" field for role-based access. By using keys stored in an .env file, users could register as Vendors or Admins if they entered the correct key during signup. For example, entering "man-bites-admin" would assign an Admin role to the account.
-
 2. Dynamic Map Markers with Google Maps API:
 
 - Integrated Google Maps API to display dynamic markers for food locations on campus.
