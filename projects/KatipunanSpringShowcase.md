@@ -6,6 +6,8 @@ title: "Katipunan Spring Showcase"
 date: 2024
 published: true
 labels:
+- Cultural
+- Film
 
 summary: "My class and I acted and created a video to showcase for a film festival"
 ---
