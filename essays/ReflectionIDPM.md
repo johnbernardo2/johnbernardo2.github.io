@@ -16,9 +16,10 @@ labels:
 <img width="600px" src="../img/timetracking.jpg" class="img-thumbnail">
 <img width="600px" src="../img/pomofocus40.png" class="img-thumbnail">
 </div>
+
 ## Introduction
 
-Our group was tasked to create a web application for all the restaurants at UH Manoa. The application features a user-friendly interface for users, vendors, and admins. Users can load up the application to find where they might want to eat, explore the type of food available, and access restaurant contact information. Vendors can submit and upload their restaurant details, including coordinates to display their location on Google Maps. Admins manage and control all aspects of the platform.
+Effort estimation and tracking are essential practices in software engineering, helping developers plan and manage tasks effectively. In ICS 314, I learned to make initial estimates for tasks, track actual time spent on coding and non-coding activities, and reflect on the accuracy of these estimates. This experience provided valuable insights into improving productivity and managing time in structured projects. In this essay, I’ll discuss my approach to effort estimation, the benefits of tracking effort, and the methods I used to refine my workflow.
 
 ## How did you make your effort estimates?
 
