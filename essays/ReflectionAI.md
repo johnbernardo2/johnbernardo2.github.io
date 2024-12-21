@@ -131,7 +131,7 @@ GPT's response:
 
 ```
 
-From this, I learned that some elements, like <html lang="en">, are straightforward to modify. For example, changing 'en' to 'fr' would simply set the language to French.
+From this, I learned that some elements, like `<html lang="en">`, are straightforward to modify. For example, changing 'en' to 'fr' would simply set the language to French.
 
 #### 11. Writing Code:
 
