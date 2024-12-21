@@ -12,10 +12,12 @@ labels:
 summary: "A playlist maker project created in ICS 211"
 ---
 
-This is a project called “Playlist” which was made in my previous ICS 211 class; created in Java using Visual Sudio Code. It is a program that allows you to perform multiple actions in creating your own music playlist.
+## Playlist Management Program
+The Playlist Management Program was a project I created during my ICS 211 class using Java and Visual Studio Code. This program allows users to perform various actions to create and manage their own music playlists, such as adding and removing songs, calculating total playlist duration, and renaming the playlist.
 
-My first steps in this were to first brainstorm and create pseudo code. I am still new to coding, so I try to think about what is and isnt neccessary as well as how efficient and minimal I can do to make this project. Starting off with just writing out all the basic sysout questions and outputs into the program, such as “Enter Playlist Title:”.
+## Development Process
+To start, I brainstormed the program's structure and wrote pseudocode to outline its functionality. As a beginner in coding, I focused on identifying what was essential and how I could design the program to be as efficient and minimalistic as possible. My first step was to implement the basic input and output prompts, such as “Enter Playlist Title,” to lay the foundation for the user interaction.
+The next step was to prioritize simplicity for the end user. I designed a character-based menu system to make it intuitive for everyday users. For instance, users could input specific commands like “a” to add a song, “d” to remove a song, or “t” to display the total duration of the playlist. This approach made the program accessible, even to those without technical knowledge. A practical use case might involve a user planning a road trip and wanting to ensure their playlist is long enough for the journey by using the “t” option to calculate total time.
 
-The second step was to create something simplistic to the user, to assume this is an every day person. In this case, I used a character option menu in which the user is able to add or change parts of the playlist to his liking. When the user creates their playlist title, they are given a selection of character options to choose from. A simple example from that menu would be, “a - add a song” or “d - remove a song.” Let’s say they are preparing for a long road trip and they want to know if their offline playlist will be long enough for it. The user would simple input “t” which is displayed as “t - output total time in playlist.”
-
-This was a good learning experience because I am a person who enjoys music, so it was nice to create a project that aligns with my interests. It helped me refine from what I know from java into applicable learning. Refining my syntax knowledge and basics such as methods and switch statements. It’s a direct and simple program that I think I can show to anyone, even people who do not program.
+## Key Learnings
+This project was a significant milestone in my coding journey as it allowed me to apply Java concepts in a practical and creative way. I refined my understanding of syntax, methods, and control structures like switch statements. Additionally, working on a project related to my personal interest in music made the learning process more enjoyable and engaging. The program’s simplicity and relevance also made it something I could confidently demonstrate to others, even those unfamiliar with programming.
