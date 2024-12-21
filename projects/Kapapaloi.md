@@ -17,8 +17,20 @@ summary: "Volunteering for the Ka Papa Lo'i program in Punalu'u"
 <img width="400px" src="../img/loi3.png" class="img-thumbnail">
 </div>
 
-The Ka Papa Lo’i is a service learning event in which volunteers can learn about the land (Aina) and help maintain Hawaiian agriculture. Two locations that I’m aware about and have particapted in about are Ka Papa Lo’i Kanewai, here on campus and Ka Papa Lo’i Punalu’u, North East side of Oahu.
+Ka Papa Lo’i is a service-learning experience centered around traditional Hawaiian agriculture, particularly the cultivation of taro (kalo). This event allows volunteers to connect with the land (ʻāina), learn its history, and contribute to its maintenance. I participated in this activity at two significant locations: Ka Papa Lo’i Kanewai on the University of Hawaiʻi at Mānoa campus and Ka Papa Lo’i Punalu’u on the northeastern side of Oʻahu.
 
-This was a big group activity and my role in this case was first cultivate each of the plants. Going to each taro plant and removing imperfections such as a dead stem and leaf which could be invasive. Then we would either shape the mud around the base and or reinforce it with more mud. The second step was to trample into a differnent parts of soil for preparation. To my knowledge, it was to reinforce and create a more compact inner mud for new and existing taro plants. This went on for about two and a half hours. Then third and final step was to collect boulders from a river in  Punalu’u and bring them to a truck for them to bring to Kanewai Lōi.
+## My Role and Contributions
 
-I learned the importance of the land and how valuable it is for it to be cared for. in Hawaiian, it is “Mālama ʻĀina” which translates to,“ to take care of the land.” Caring for the land is what provides us resources as the land in turn feeds us and keeps us happy. My interpretation in application is to care for what surrounds you and what brings good to you. Whatever good you put into something, gives you good in return. 
+This was a collaborative effort involving many volunteers. My primary responsibilities included:
+
+1. <strong>Taro Plant Maintenance/<strong>: I carefully removed dead stems and leaves from each taro plant, as these could become invasive or hinder growth.
+I also reshaped and reinforced the mud around the base of the plants to support healthy growth.
+
+2. <strong>Soil Preparation</strong>: I participated in compacting and reinforcing the soil by trampling specific areas, which helps prepare the land for new and existing taro plants.
+
+3. <strong>Boulder Collection</strong>: At Ka Papa Lo’i Punalu’u, I helped collect large river stones and load them into trucks for transport to Ka Papa Lo’i Kanewai. These boulders play an essential role in maintaining the taro patches at Kanewai, which lacks access to river stones.
+
+# Lessons Learned
+Through this experience, I gained a deeper appreciation for the Hawaiian value of Mālama ʻĀina—to take care of the land. I learned that caring for the land not only sustains its resources but also nurtures a symbiotic relationship where the land gives back in abundance.
+On a personal level, this lesson resonated beyond agriculture. I realized that when we care for what surrounds us—whether it’s the environment, our relationships, or our work—we create a cycle of mutual benefit and fulfillment
+
