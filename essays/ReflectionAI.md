@@ -118,18 +118,18 @@ And so forth, a jump into the WOD with the boilerplate, formatting, and everythi
 
 I use GPT to break down things if I don't understand them, or if I'm on a hunch.
 
-Let's say I don't understand what the boiler plate is for, I'll simply ask "What does this mean? <insert boiler plate from #9>"
+Let's say I don't understand what the boiler plate is for, I'll simply ask "What does this mean? <insert boiler plate>"
 
 GPT's response:
 
-```
 
-<!DOCTYPE html> declares the document as HTML5 for proper browser rendering.
-<html lang="en"> sets the primary language to English.
-The <meta charset="UTF-8"> ensures correct character encoding for all symbols and text.
-<meta name="viewport" content="width=device-width, initial-scale=1.0"> makes the page responsive on all screen sizes.
 
-```
+"<!DOCTYPE html> declares the document as HTML5 for proper browser rendering."
+"<html lang="en"> sets the primary language to English."
+"The <meta charset="UTF-8"> ensures correct character encoding for all symbols and text."
+"<meta name="viewport" content="width=device-width, initial-scale=1.0"> makes the page responsive on all screen sizes."
+
+
 
 Okay, so then some of it is pretty self explainable, I learned that html lang sets the language, and if I wanted it to be Frenchs I can simply change "en" to "fr".
 #### 11. Writing Code:
@@ -186,13 +186,13 @@ I also see an opportunity for educators to emphasize using AI tools as a guide, 
 
 ## VI. Comparative Analysis:
 
-Engagement:
+**Engagement**:
 Traditional teaching methods, such as problem-specific videos or lectures, feel more engaging because they provide structure and context. AI tools, on the other hand, feel like crash courses mixed with chatbots. While AI is interactive, having a real person teaching concepts still feels more natural and effective.
 
-Knowledge Retention:
+**Knowledge Retention**:
 I retain knowledge better through traditional methods like lectures and reading when I’m actively building something alongside it. AI can feel static unless used as a supplement while working on a project.
 
-Skill Development:
+**Skill Development**:
 Skill development is best when combining both approaches. AI enhances practical skills by providing real-time answers and fixes, but traditional teaching builds a deeper understanding of concepts.
 
 
