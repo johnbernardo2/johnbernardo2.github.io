@@ -4,7 +4,7 @@ type: project
 image: img/PlaylistIcon.png
 title: "Playlist"
 date: 2024
-published: true
+published: false
 labels:
   - Java
   - VSCode
