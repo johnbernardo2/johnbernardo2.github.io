@@ -1,10 +1,10 @@
-{
-  "basics": {
+ "basics": {
     "name": "John Bernardo",
     "label": "Student",
     "picture": "https://github.com/johnbernardo2.png",
+    "email": jwrb@hawaii.edu",
     "email": "jwrb@hawaii.edu",
-    "phone": "907-617-3669",
+    "phone": "907-617-3668",
     "website": "https://johnbernardo2.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
